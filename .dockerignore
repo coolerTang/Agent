@@ -1,0 +1,15 @@
+node_modules
+.git
+.env
+.env.*
+out
+release
+backups
+*.dump
+*.tsbuildinfo
+.DS_Store
+
+**/.env
+**/.env.*
+**/*.dump
+**/backups
