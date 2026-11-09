@@ -13,3 +13,7 @@ backups
 **/.env.*
 **/*.dump
 **/backups
+
+ios
+android
+dist-mobile
